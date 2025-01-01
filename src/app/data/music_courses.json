@@ -1,0 +1,154 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "title": "Learn JavaScript Basics",
+            "slug": "learn-javascript-basics",
+            "description": "A beginner-friendly course to master JavaScript fundamentals.",
+            "prize": "$49",
+            "instructor": "John Doe",
+            "isFeatured": true,
+            "image": "https://via.placeholder.com/300/FF5733/FFFFFF?text=JavaScript+Basics"
+        },
+        {
+            "id": 2,
+            "title": "React for Beginners",
+            "slug": "react-for-beginners",
+            "description": "Understand the core concepts of React and build your first app.",
+            "prize": "$59",
+            "instructor": "Jane Smith",
+            "isFeatured": false,
+            "image": "https://via.placeholder.com/300/4285F4/FFFFFF?text=React+Basics"
+        },
+        {
+            "id": 3,
+            "title": "Mastering Python",
+            "slug": "mastering-python",
+            "description": "A comprehensive guide to Python for all levels.",
+            "prize": "$99",
+            "instructor": "Alice Johnson",
+            "isFeatured": true,
+            "image": "https://via.placeholder.com/300/FFC107/FFFFFF?text=Python+Mastery"
+        },
+        {
+            "id": 4,
+            "title": "Web Development Bootcamp",
+            "slug": "web-development-bootcamp",
+            "description": "Learn HTML, CSS, JavaScript, and more to become a web developer.",
+            "prize": "$199",
+            "instructor": "Bob Brown",
+            "isFeatured": false,
+            "image": "https://via.placeholder.com/300/4CAF50/FFFFFF?text=Web+Dev+Bootcamp"
+        },
+        {
+            "id": 5,
+            "title": "Data Science with R",
+            "slug": "data-science-with-r",
+            "description": "Analyze and visualize data with R programming.",
+            "prize": "$129",
+            "instructor": "Chris Wilson",
+            "isFeatured": false,
+            "image": "https://via.placeholder.com/300/9C27B0/FFFFFF?text=Data+Science+R"
+        },
+        {
+            "id": 6,
+            "title": "UI/UX Design Fundamentals",
+            "slug": "ui-ux-design-fundamentals",
+            "description": "Learn the principles of user interface and experience design.",
+            "prize": "$149",
+            "instructor": "Dana White",
+            "isFeatured": true,
+            "image": "https://via.placeholder.com/300/3F51B5/FFFFFF?text=UI+UX+Design"
+        },
+        {
+            "id": 7,
+            "title": "Introduction to Machine Learning",
+            "slug": "introduction-to-machine-learning",
+            "description": "A beginner's course to understand machine learning concepts.",
+            "prize": "$119",
+            "instructor": "Emily Davis",
+            "isFeatured": true,
+            "image": "https://via.placeholder.com/300/FF5722/FFFFFF?text=ML+Basics"
+        },
+        {
+            "id": 8,
+            "title": "Kotlin for Android Development",
+            "slug": "kotlin-for-android-development",
+            "description": "Build Android apps using Kotlin programming language.",
+            "prize": "$89",
+            "instructor": "Frank Miller",
+            "isFeatured": false,
+            "image": "https://via.placeholder.com/300/2196F3/FFFFFF?text=Kotlin+Android"
+        },
+        {
+            "id": 9,
+            "title": "Cloud Computing with AWS",
+            "slug": "cloud-computing-with-aws",
+            "description": "Master AWS cloud platform with real-world examples.",
+            "prize": "$179",
+            "instructor": "Grace Lee",
+            "isFeatured": true,
+            "image": "https://via.placeholder.com/300/FF9800/FFFFFF?text=AWS+Cloud"
+        },
+        {
+            "id": 10,
+            "title": "Blockchain Basics",
+            "slug": "blockchain-basics",
+            "description": "Understand blockchain technology and its applications.",
+            "prize": "$69",
+            "instructor": "Henry Moore",
+            "isFeatured": false,
+            "image": "https://via.placeholder.com/300/607D8B/FFFFFF?text=Blockchain"
+        },
+        {
+            "id": 11,
+            "title": "Digital Marketing Essentials",
+            "slug": "digital-marketing-essentials",
+            "description": "Learn the core skills for digital marketing success.",
+            "prize": "$99",
+            "instructor": "Ivy Thomas",
+            "isFeatured": true,
+            "image": "https://via.placeholder.com/300/FFEB3B/000000?text=Digital+Marketing"
+        },
+        {
+            "id": 12,
+            "title": "DevOps Masterclass",
+            "slug": "devops-masterclass",
+            "description": "Integrate development and operations with modern DevOps practices.",
+            "prize": "$199",
+            "instructor": "Jack Taylor",
+            "isFeatured": false,
+            "image": "https://via.placeholder.com/300/795548/FFFFFF?text=DevOps"
+        },
+        {
+            "id": 13,
+            "title": "Cybersecurity Fundamentals",
+            "slug": "cybersecurity-fundamentals",
+            "description": "Learn the essentials of protecting data and systems.",
+            "prize": "$129",
+            "instructor": "Karen Anderson",
+            "isFeatured": false,
+            "image": "https://via.placeholder.com/300/607D8B/FFFFFF?text=Cybersecurity"
+        },
+        {
+            "id": 14,
+            "title": "Advanced CSS and Sass",
+            "slug": "advanced-css-and-sass",
+            "description": "Enhance your styling skills with advanced CSS and Sass techniques.",
+            "prize": "$79",
+            "instructor": "Liam Martin",
+            "isFeatured": true,
+            "image": "https://via.placeholder.com/300/9E9E9E/FFFFFF?text=CSS+Sass"
+        },
+        {
+            "id": 15,
+            "title": "Artificial Intelligence Overview",
+            "slug": "artificial-intelligence-overview",
+            "description": "A comprehensive overview of AI concepts and applications.",
+            "prize": "$149",
+            "instructor": "Nina Garcia",
+            "isFeatured": false,
+            "image": "https://via.placeholder.com/300/009688/FFFFFF?text=AI+Overview"
+        }
+    ]
+}
