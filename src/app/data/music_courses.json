@@ -2,153 +2,113 @@
     "courses": [
         {
             "id": 1,
-            "title": "Learn JavaScript Basics",
-            "slug": "learn-javascript-basics",
-            "description": "A beginner-friendly course to master JavaScript fundamentals.",
+            "title": "Learn Piano for Beginners",
+            "slug": "learn-piano-for-beginners",
+            "description": "A beginner-friendly course to master the basics of playing the piano.",
             "prize": "$49",
             "instructor": "John Doe",
             "isFeatured": true,
-            "image": "https://via.placeholder.com/300/FF5733/FFFFFF?text=JavaScript+Basics"
+            "image": "https://images.unsplash.com/photo-1582088588469-0ec6cc0a8bfe?crop=entropy&cs=tinysrgb&fit=max&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDJ8fHBpYW5vJTIwY2xhc3N8ZW58MHx8fHwxNjg2Njg1MzM4&ixlib=rb-1.2.1&q=80&w=1080"
         },
         {
             "id": 2,
-            "title": "React for Beginners",
-            "slug": "react-for-beginners",
-            "description": "Understand the core concepts of React and build your first app.",
+            "title": "Guitar for Beginners",
+            "slug": "guitar-for-beginners",
+            "description": "Learn the foundational chords and techniques to start playing guitar.",
             "prize": "$59",
             "instructor": "Jane Smith",
             "isFeatured": false,
-            "image": "https://via.placeholder.com/300/4285F4/FFFFFF?text=React+Basics"
+            "image": "https://images.unsplash.com/photo-1519379892978-899ba1d22bb0?crop=entropy&cs=tinysrgb&fit=max&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDgxfHxndWl0YXJ8ZW58MHx8fHwxNjg2Njg1NzM2&ixlib=rb-1.2.1&q=80&w=1080"
         },
         {
             "id": 3,
-            "title": "Mastering Python",
-            "slug": "mastering-python",
-            "description": "A comprehensive guide to Python for all levels.",
+            "title": "Mastering Music Theory",
+            "slug": "mastering-music-theory",
+            "description": "A comprehensive guide to understanding music theory for all levels.",
             "prize": "$99",
             "instructor": "Alice Johnson",
             "isFeatured": true,
-            "image": "https://via.placeholder.com/300/FFC107/FFFFFF?text=Python+Mastery"
+            "image": "https://images.unsplash.com/photo-1595369701200-b4e670415d0f?crop=entropy&cs=tinysrgb&fit=max&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDJ8fG11c2ljJTIwdGhlb3J5JTIwb2NxdXJ0fGVufDB8fHx8fDE2ODY2ODUzMjY&ixlib=rb-1.2.1&q=80&w=1080"
         },
         {
             "id": 4,
-            "title": "Web Development Bootcamp",
-            "slug": "web-development-bootcamp",
-            "description": "Learn HTML, CSS, JavaScript, and more to become a web developer.",
+            "title": "Advanced Drumming Techniques",
+            "slug": "advanced-drumming-techniques",
+            "description": "Take your drumming skills to the next level with advanced techniques.",
             "prize": "$199",
             "instructor": "Bob Brown",
             "isFeatured": false,
-            "image": "https://via.placeholder.com/300/4CAF50/FFFFFF?text=Web+Dev+Bootcamp"
+            "image": "https://images.unsplash.com/photo-1519877500362-e5b2ff1b92b7?crop=entropy&cs=tinysrgb&fit=max&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDQxfHxiYXNlZCUyMGRydW1tZXxlbnwwfHx8fDE2ODY2ODU5MzI&ixlib=rb-1.2.1&q=80&w=1080"
         },
         {
             "id": 5,
-            "title": "Data Science with R",
-            "slug": "data-science-with-r",
-            "description": "Analyze and visualize data with R programming.",
+            "title": "Music Production with Ableton Live",
+            "slug": "music-production-with-ableton-live",
+            "description": "Learn to produce professional-quality music using Ableton Live.",
             "prize": "$129",
             "instructor": "Chris Wilson",
             "isFeatured": false,
-            "image": "https://via.placeholder.com/300/9C27B0/FFFFFF?text=Data+Science+R"
+            "image": "https://images.unsplash.com/photo-1595472226216-c09d4667f0db?crop=entropy&cs=tinysrgb&fit=max&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDd8fG11c2ljJTIwZXhwZXJpZW5jZSUyMGJyb3VnaHQlfGVufDB8fHx8fDE2ODY2ODU5MjM&ixlib=rb-1.2.1&q=80&w=1080"
         },
         {
             "id": 6,
-            "title": "UI/UX Design Fundamentals",
-            "slug": "ui-ux-design-fundamentals",
-            "description": "Learn the principles of user interface and experience design.",
-            "prize": "$149",
-            "instructor": "Dana White",
-            "isFeatured": true,
-            "image": "https://via.placeholder.com/300/3F51B5/FFFFFF?text=UI+UX+Design"
+            "title": "Piano Mastery for Intermediate Players",
+            "slug": "piano-mastery-intermediate",
+            "description": "An intermediate course that dives deeper into piano playing techniques.",
+            "prize": "$79",
+            "instructor": "John Doe",
+            "isFeatured": false,
+            "image": "https://images.unsplash.com/photo-1617743927285-cd1d2f2a14a4?crop=entropy&cs=tinysrgb&fit=max&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDJ8fHBpYW5vJTIwY2xhc3N8ZW58MHx8fHwxNjg2Njg1MzM4&ixlib=rb-1.2.1&q=80&w=1080"
         },
         {
             "id": 7,
-            "title": "Introduction to Machine Learning",
-            "slug": "introduction-to-machine-learning",
-            "description": "A beginner's course to understand machine learning concepts.",
-            "prize": "$119",
-            "instructor": "Emily Davis",
-            "isFeatured": true,
-            "image": "https://via.placeholder.com/300/FF5722/FFFFFF?text=ML+Basics"
+            "title": "The Basics of Jazz Guitar",
+            "slug": "basics-of-jazz-guitar",
+            "description": "Learn the foundational techniques of jazz guitar playing.",
+            "prize": "$69",
+            "instructor": "Jane Smith",
+            "isFeatured": false,
+            "image": "https://images.unsplash.com/photo-1610361582671-9d77ea52a7a2?crop=entropy&cs=tinysrgb&fit=max&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDgxfHxndWl0YXJ8ZW58MHx8fHwxNjg2Njg1NzM2&ixlib=rb-1.2.1&q=80&w=1080"
         },
         {
             "id": 8,
-            "title": "Kotlin for Android Development",
-            "slug": "kotlin-for-android-development",
-            "description": "Build Android apps using Kotlin programming language.",
-            "prize": "$89",
-            "instructor": "Frank Miller",
-            "isFeatured": false,
-            "image": "https://via.placeholder.com/300/2196F3/FFFFFF?text=Kotlin+Android"
+            "title": "Music Theory for Advanced Learners",
+            "slug": "advanced-music-theory",
+            "description": "Take your understanding of music theory to the next level.",
+            "prize": "$119",
+            "instructor": "Alice Johnson",
+            "isFeatured": true,
+            "image": "https://images.unsplash.com/photo-1524450849609-4ed9fefac9a0?crop=entropy&cs=tinysrgb&fit=max&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDJ8fG11c2ljJTIwdGhlb3J5JTIwb2NxdXJ0fGVufDB8fHx8fDE2ODY2ODUzMjY&ixlib=rb-1.2.1&q=80&w=1080"
         },
         {
             "id": 9,
-            "title": "Cloud Computing with AWS",
-            "slug": "cloud-computing-with-aws",
-            "description": "Master AWS cloud platform with real-world examples.",
-            "prize": "$179",
-            "instructor": "Grace Lee",
-            "isFeatured": true,
-            "image": "https://via.placeholder.com/300/FF9800/FFFFFF?text=AWS+Cloud"
+            "title": "Basic Drum Kit Skills",
+            "slug": "basic-drum-kit-skills",
+            "description": "Master the basics of playing the drum kit in this foundational course.",
+            "prize": "$89",
+            "instructor": "Bob Brown",
+            "isFeatured": false,
+            "image": "https://images.unsplash.com/photo-1518911161732-9c8a77447d88?crop=entropy&cs=tinysrgb&fit=max&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDg5fHxiYXNlZCUyMGRydW1tZXxlbnwwfHx8fDE2ODY2ODU5MzI&ixlib=rb-1.2.1&q=80&w=1080"
         },
         {
             "id": 10,
-            "title": "Blockchain Basics",
-            "slug": "blockchain-basics",
-            "description": "Understand blockchain technology and its applications.",
-            "prize": "$69",
-            "instructor": "Henry Moore",
+            "title": "Electronic Music Production for Beginners",
+            "slug": "electronic-music-production-beginners",
+            "description": "Learn how to produce electronic music from scratch.",
+            "prize": "$149",
+            "instructor": "Chris Wilson",
             "isFeatured": false,
-            "image": "https://via.placeholder.com/300/607D8B/FFFFFF?text=Blockchain"
+            "image": "https://images.unsplash.com/photo-1564672675-f68a1559903d?crop=entropy&cs=tinysrgb&fit=max&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDExfHxlZWN0cm9uaWMlMjBtdXNpYyUyMHByb2R1Y3Rpb258ZW58MHx8fHwxNjg2Njg1NzM2&ixlib=rb-1.2.1&q=80&w=1080"
         },
         {
             "id": 11,
-            "title": "Digital Marketing Essentials",
-            "slug": "digital-marketing-essentials",
-            "description": "Learn the core skills for digital marketing success.",
-            "prize": "$99",
-            "instructor": "Ivy Thomas",
+            "title": "Learning Classical Guitar",
+            "slug": "learning-classical-guitar",
+            "description": "An in-depth guide to learning classical guitar techniques.",
+            "prize": "$89",
+            "instructor": "Jane Smith",
             "isFeatured": true,
-            "image": "https://via.placeholder.com/300/FFEB3B/000000?text=Digital+Marketing"
-        },
-        {
-            "id": 12,
-            "title": "DevOps Masterclass",
-            "slug": "devops-masterclass",
-            "description": "Integrate development and operations with modern DevOps practices.",
-            "prize": "$199",
-            "instructor": "Jack Taylor",
-            "isFeatured": false,
-            "image": "https://via.placeholder.com/300/795548/FFFFFF?text=DevOps"
-        },
-        {
-            "id": 13,
-            "title": "Cybersecurity Fundamentals",
-            "slug": "cybersecurity-fundamentals",
-            "description": "Learn the essentials of protecting data and systems.",
-            "prize": "$129",
-            "instructor": "Karen Anderson",
-            "isFeatured": false,
-            "image": "https://via.placeholder.com/300/607D8B/FFFFFF?text=Cybersecurity"
-        },
-        {
-            "id": 14,
-            "title": "Advanced CSS and Sass",
-            "slug": "advanced-css-and-sass",
-            "description": "Enhance your styling skills with advanced CSS and Sass techniques.",
-            "prize": "$79",
-            "instructor": "Liam Martin",
-            "isFeatured": true,
-            "image": "https://via.placeholder.com/300/9E9E9E/FFFFFF?text=CSS+Sass"
-        },
-        {
-            "id": 15,
-            "title": "Artificial Intelligence Overview",
-            "slug": "artificial-intelligence-overview",
-            "description": "A comprehensive overview of AI concepts and applications.",
-            "prize": "$149",
-            "instructor": "Nina Garcia",
-            "isFeatured": false,
-            "image": "https://via.placeholder.com/300/009688/FFFFFF?text=AI+Overview"
+             "image": "https://images.unsplash.com/photo-1564672675-f68a1559903d?crop=entropy&cs=tinysrgb&fit=max&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDExfHxlZWN0cm9uaWMlMjBtdXNpYyUyMHByb2R1Y3Rpb258ZW58MHx8fHwxNjg2Njg1NzM2&ixlib=rb-1.2.1&q=80&w=1080"
         }
     ]
 }
