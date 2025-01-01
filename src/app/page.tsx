@@ -4,6 +4,8 @@ import FeaturedCourses from "./components/FeaturedCourses";
 import { WhyChooseUs } from "./components/WhyChooseUs";
 import { Testimonials } from "./components/Testimonials";
 import UpcomingWebinar from "./components/UpcomingWebinar";
+import Instructors from "./components/Instructors";
+import Footer from "./components/Footer";
 
 export default function Home() {
   return (
@@ -13,8 +15,9 @@ export default function Home() {
         <FeaturedCourses />
         <WhyChooseUs />
         <Testimonials />
-        <UpcomingWebinar/>
-
+        <UpcomingWebinar />
+        <Instructors />
+        <Footer />
       </div>
     </div>
   );
