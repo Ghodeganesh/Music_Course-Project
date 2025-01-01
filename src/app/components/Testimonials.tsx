@@ -8,7 +8,7 @@ export function Testimonials() {
         <div className="flex justify-center px-4   dark:bg-black relative">
             <div className="w-full dark:bg-grid-white/[0.2] bg-grid-black/[0.2] rounded-lg shadow-lg overflow-hidden">
                 <div className="h-[30rem] sm:h-[40rem] flex flex-col items-center justify-center px-6">
-                    <h1 className="text-3xl sm:text-4xl lg:text-5xl text-center text-gray-800 dark:text-white mb-6 font-semibold">
+                    <h1 className="text-3xl sm:text-4xl  lg:text-5xl text-center  dark:text-white mb-6 font-semibold">
                         Hear Our Harmony: Voice of Success
                     </h1>
                     <InfiniteMovingCards
@@ -53,3 +53,4 @@ const testimonials = [
         title: "Moby-Dick",
     },
 ];
+

@@ -8,7 +8,7 @@ import Link from "next/link";
 
 export function SpotlightPreview() {
     return (
-        <div className="h-auto md:h-[46rem] flex flex-col justify-center space-y-5 dark:bg-black items-center overflow-hidden py-20  md:py-0 mx-auto relative">
+        <div className="h-auto md:h-[46rem] flex flex-col justify-center space-y-5 dark:bg-black items-center overflow-hidden py-20  md:py-0 mx-auto ">
             <Spotlight
                 className="-top-40 left-0 md:left-60 md:-top-20"
                 fill="white"
@@ -34,3 +34,4 @@ export function SpotlightPreview() {
         </div>
     );
 }
+

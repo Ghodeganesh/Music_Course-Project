@@ -29,8 +29,8 @@ const Footer = () => {
                 <div className='flex flex-col gap-3 text-gray-400'>
                     <h1 className='font-bold text-2xl text-white'>Contact Us</h1>
                     <ul>
-                        <li>Email: <a href="music:email@example.com">musci@example.com</a></li>
-                        <li>Phone: <a href="tel:+11234567890">+1 (123) 456-7890</a></li>
+                        <li>Email: <Link href="music:email@example.com">musci@example.com</Link></li>
+                        <li>Phone: <Link href="tel:+11234567890">+1 (123) 456-7890</Link></li>
                         <li>Address: 123 Music Ave, City, Country</li>
                     </ul>
                 </div>

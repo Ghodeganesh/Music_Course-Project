@@ -1,16 +1,17 @@
 "use client";
-
+import courseData from "../data/music_courses.json"
 import Image from "next/image";
 import React from "react";
-import { CardBody, CardContainer, CardItem } from "../../../src/components/ui/3d-card";
+import { CardBody, CardContainer, CardItem } from "../../components/ui/3d-card";
 import Link from "next/link";
-import courseData from "../data/music_courses.json"
 
-function ThreeDCardDemo() {
+export default function ThreeDCardDemo() {
+
   return (
-    <div className="pt-36 py-12 flex flex-col ">
-      <h1 className="md:text-4xl font-bold   text-center ">All Our Courses ({courseData.courses.length})</h1>
-      <div className="flex gap-4 justify-center flex-wrap mt-1 px-8 ">
+    <div className="flex flex-col pt-36 text-center">
+      <div><h2 className="text-2xl md:text-5xl font-bold ">All Music Courses({courseData.courses.length})</h2></div>
+      <div className="flex max-w-7xl mx-auto gap-4 flex-wrap shrink-0 justify-center items-center">
+      
         {
           courseData.courses.map(course => (
             <CardContainer key={course.id} className="inter-var">
@@ -30,11 +31,11 @@ function ThreeDCardDemo() {
                 </CardItem>
                 <CardItem translateZ="100" className="w-full mt-4">
                   <Image
-                    src={course.image}
+                    src="https://images.unsplash.com/photo-1441974231531-c6227db76b6e?q=80&w=2560&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                     height="1000"
                     width="1000"
                     className="h-60 w-full object-cover rounded-xl group-hover/card:shadow-xl"
-                    alt={course.title}
+                    alt="thumbnail"
                   />
                 </CardItem>
                 <div className="flex justify-between items-center mt-20">
@@ -57,11 +58,10 @@ function ThreeDCardDemo() {
                 </div>
               </CardBody>
             </CardContainer>
+
           ))
         }
       </div>
     </div>
   );
 }
-
-export default ThreeDCardDemo

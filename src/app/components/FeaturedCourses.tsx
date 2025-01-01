@@ -61,3 +61,4 @@ const FeaturedCourses = () => {
 }
 
 export default FeaturedCourses
+
